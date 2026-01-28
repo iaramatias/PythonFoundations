@@ -1,4 +1,4 @@
-# Daily-Coding
+# PythonFoundations
 Meus primeiros projetos em Python, desenvolvidos durante meus estudos de lógica de programação.
 # Projetos Iniciais em Python
 
